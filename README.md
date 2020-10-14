@@ -1,2 +1,2 @@
 # RladiesItaly
-A repository for storying Rladies Presentations
+A repository for storing Rladies Presentations
